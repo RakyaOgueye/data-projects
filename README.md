@@ -11,3 +11,19 @@ Développer des tableaux de bord décisionnels et des analyses orientées
 Illustrer ma capacité à transformer des données en insights actionnables
 
 Constituer un support professionnel pour des candidatures en Data science
+
+# Compétences mobilisées
+
+Langages : Python, SQL
+
+Analyse de données : Pandas, NumPy
+
+Visualisation : Matplotlib, Seaborn, Power BI
+
+Statistiques : analyse descriptive, tests statistiques
+
+Machine Learning : scikit-learn (régression, classification, clustering)
+
+Business Intelligence : KPI, reporting, tableaux de bord
+
+Outils : Git/GitHub, Power BI, Excel
