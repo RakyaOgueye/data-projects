@@ -1,10 +1,10 @@
 # data-projects
-Bienvenue sur mon portfolio de projets en Data Science and Data Analytics.
+Bienvenue sur mon portfolio de projets en Data.
 
 Ce dépôt regroupe plusieurs projets appliqués visant à démontrer mes compétences en analyse de données, visualisation, modélisation statistique et machine learning.
 
 # Objectif
-Mettre en pratique des méthodes de Data Analysis et Data Science sur des jeux de données réels
+Mettre en pratique des méthodes de Data Engineering, Data Analytics et Data Science sur des jeux de données réels
 
 Développer des tableaux de bord décisionnels et des analyses orientées 
 
