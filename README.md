@@ -1,29 +1,28 @@
 # data-projects
-Bienvenue sur mon portfolio de projets en Data.
+Welcome to my Data project portfolio.
 
-Ce dépôt regroupe plusieurs projets appliqués visant à démontrer mes compétences en analyse de données, visualisation, modélisation statistique et machine learning.
+This repository gathers several applied projects designed to showcase my skills in data analysis, visualization, statistical modeling, and machine learning.
+# Objective
+Apply Data Engineering, Data Analytics, and Data Science methods to real-world datasets.
 
-# Objectif
-Mettre en pratique des méthodes de Data Engineering, Data Analytics et Data Science sur des jeux de données réels
+Develop decision-oriented dashboards and analytical reports.
 
-Développer des tableaux de bord décisionnels et des analyses orientées 
+Demonstrate my ability to transform raw data into actionable insights.
 
-Illustrer ma capacité à transformer des données en insights actionnables
+Build a professional portfolio to support applications in Data Science and Analytics roles.
 
-Constituer un support professionnel pour des candidatures en Data science
+# Skills & Tools
 
-# Compétences mobilisées
+Programming Languages: Python, SQL
 
-Langages : Python, SQL
+Data Analysis: Pandas, NumPy
 
-Analyse de données : Pandas, NumPy
+Visualization: Matplotlib, Seaborn, Power BI
 
-Visualisation : Matplotlib, Seaborn, Power BI
+Statistics: Descriptive analysis, statistical testing
 
-Statistiques : analyse descriptive, tests statistiques
+Machine Learning: scikit-learn (regression, classification, clustering)
 
-Machine Learning : scikit-learn (régression, classification, clustering)
+Business Intelligence: KPIs, reporting, dashboards
 
-Business Intelligence : KPI, reporting, tableaux de bord
-
-Outils : Git/GitHub, Power BI, Excel
+Tools: Git/GitHub, Power BI, Excel
