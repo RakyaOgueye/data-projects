@@ -141,11 +141,10 @@ This reflects **practical ML workflows**, not isolated model evaluation.
 ---
 
 ## Repository Structure
-
-├── Heart_disease.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── data/
-│ └── heart_disease.csv
+Heart_disease.ipynb # Main analysis notebook
+README.md # Project documentation
+data/
+heart_disease.csv
 
 
 ---
