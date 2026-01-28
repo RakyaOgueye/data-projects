@@ -129,5 +129,3 @@ The evaluation step is treated as:
 - Establishing a baseline is essential before optimization  
 
 
-# ```
-
