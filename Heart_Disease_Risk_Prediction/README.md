@@ -36,7 +36,7 @@
 
 # 
 
-# \## 🧠 Problem Definition
+# \## Problem Definition
 
 # 
 
@@ -64,7 +64,7 @@
 
 # 
 
-# \## 📊 Dataset Description
+# \## Dataset Description
 
 # 
 
@@ -112,7 +112,7 @@
 
 # 
 
-# \## 🔬 Exploratory Data Analysis (EDA)
+# \## Exploratory Data Analysis (EDA)
 
 # 
 
@@ -142,7 +142,7 @@
 
 # 
 
-# \## ⚙️ Data Preparation \& Preprocessing
+# \## Data Preparation \& Preprocessing
 
 # 
 
@@ -168,7 +168,7 @@
 
 # 
 
-# \## 🤖 Modeling Approach
+# \## Modeling Approach
 
 # 
 
@@ -206,7 +206,7 @@
 
 # 
 
-# \## 📈 Model Evaluation
+# \## Model Evaluation
 
 # 
 
@@ -244,7 +244,7 @@
 
 # 
 
-# \## 🔁 Model Comparison
+# \## Model Comparison
 
 # 
 
@@ -268,7 +268,7 @@
 
 # 
 
-# \## 🧪 Key Takeaways
+# \## Key Takeaways
 
 # 
 
@@ -286,7 +286,7 @@
 
 # 
 
-# \## 📁 Repository Structure
+# \## Repository Structure
 
 # 
 
@@ -308,7 +308,7 @@
 
 # 
 
-# \## 💼 Why This Project Belongs in an Industry Portfolio
+# \## Why This Project Belongs in an Industry Portfolio
 
 # 
 
@@ -334,7 +334,7 @@
 
 # 
 
-# \## 🤝 Feedback \& Collaboration
+# \## Feedback \& Collaboration
 
 # 
 
@@ -348,7 +348,7 @@
 
 # 
 
-# \## 📜 License
+# \## License
 
 # 
 
