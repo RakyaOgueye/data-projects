@@ -45,8 +45,6 @@ The dataset comes from Databel, a fictional telecom company, and contains:
 ![No of customers](Databel/Images/card1.png)
 ![No of unique customers](Databel/Images/card2.png)
 
----
-
 ### 2. Data Exploration and Feature Engineering
 
 #### Calculated Columns
@@ -60,16 +58,12 @@ The dataset comes from Databel, a fictional telecom company, and contains:
   - Between 5 and 10 GB  
   - 10 GB or more  
 
----
-
 #### Calculated Measures
 
 - Number of churned customers  
 - Average customer service calls  
 - Average extra international charges  
 - Average extra data charges  
-
----
 
 ### 3. Business Questions
 
@@ -99,8 +93,6 @@ It answers the following questions:
 - Why are customers leaving?
 - Where are churners located?
 
----
-
 ### Visuals and Data Used
 
 **KPI Cards**
@@ -108,8 +100,6 @@ It answers the following questions:
 - Number of Customers  
 - Number of Churned Customers  
 - Churn Rate  
-
----
 
 **Churn Reasons Bar Chart**
 
@@ -121,8 +111,6 @@ Top contributors include:
 - Competitor had better devices  
 - Attitude of support person   
 
----
-
 **Churn by State Map**
 
 Bubble map representing the number of churned customers by US state.
@@ -132,16 +120,12 @@ Bubble map representing the number of churned customers by US state.
 
 Identifying CALIFORNIA as the state with the highest number of churners
 
----
-
 **Donut and Bar Charts**
 
 - Churn Rate by Number of Customers in Group  
 - Churn rate by Contract Type  
 
 These visuals highlight that customers without group subscriptions churn the most, while long-term contracts represent more stable segments.
-
----
 
 ### Key Takeaways
 
@@ -153,15 +137,12 @@ These visuals highlight that customers without group subscriptions churn the mos
 
 ---
 
-
 - Demographics  
 ![Demographics Dashboard](Databel/Images/demographics.png) 
 
 ### Objective
 
 This page explores churn patterns across age groups, demographic categories, and geographic locations.
-
----
 
 ### Visuals and Data Used
 
@@ -175,8 +156,6 @@ Pie chart splitting customers into:
 
 Senior customers show the highest churn proportion.
 
----
-
 **Number of Customers and Churn Rate by Age Bins**
 
 Combo chart displaying:
@@ -186,13 +165,9 @@ Combo chart displaying:
 
 Reveals increasing churn among older age groups.
 
----
-
 **Number of Churned Customers by State**
 
 Geographic map identifying states with the largest churn volumes.
-
----
 
 ### Key Takeaways
 
@@ -203,15 +178,12 @@ Geographic map identifying states with the largest churn volumes.
 
 ---
 
-
 - Contract Information  
 ![Contract Dashboard](Databel/Images/contract.png) pour ajouter une image
 
 ### Objective
 
 This page focuses on understanding how contract structure, tenure and usage behavior influence churn.
-
----
 
 ### Visuals and Data Used
 
@@ -222,8 +194,6 @@ This page focuses on understanding how contract structure, tenure and usage beha
 
 These cards highlight the strong contrast between short-term and long-term contracts.
 
----
-
 **Average Monthly Charge and Churn Rate by Group Size**
 
 Combo chart comparing:
@@ -233,16 +203,12 @@ Combo chart comparing:
 
 It shows that churn is highest for customers without group plans, while pricing remains relatively stable across groups.
 
----
-
 **Churn Rate by Contract Category and Gender**
 
 Clustered bars comparing churn across genders and contract categories.
 
 - Monthly contracts show high churn for all genders.
 - Yearly contracts are consistently low.
-
----
 
 **Churn Rate by Account Length and Contract Type**
 
@@ -254,8 +220,6 @@ Line chart tracking churn over time for:
 
 Demonstrates that long-term contracts stabilize customers, while month-to-month users remain highly volatile.
 
----
-
 ### Key Takeaways
 
 - Contract type is the strongest churn driver.
@@ -265,8 +229,6 @@ Demonstrates that long-term contracts stabilize customers, while month-to-month 
 - Tenure alone does not protect short-term contracts.
 
 ---
-
-
 
 - Subscription Types and Charges  
 ![Subscription Dashboard](Databel/Images/subscription.png) pour ajouter une image
@@ -283,8 +245,6 @@ This page focuses on identifying the main behavioral and pricing-related drivers
 
 The goal is to highlight high-risk customer profiles and uncover operational or pricing issues that may increase churn.
 
----
-
 ### Visuals and Data Used
 
 #### Cards – Charges and Support Activity
@@ -295,8 +255,6 @@ These cards summarize key numeric indicators:
 - **Avg Extra Data Charges (3.37)**  
 - **Sum of Customer Service Calls (6123)**  
 
----
-
 #### Table – Churn Rate by International Plan
 
 This matrix compares churn rates for customers who:
@@ -305,8 +263,6 @@ This matrix compares churn rates for customers who:
 - Use their international plan
 
 It shows how international plan usage relates to churn behavior.
-
----
 
 #### Bar Chart – Churn Rate by Unlimited Data Plan and Grouped Consumption
 
@@ -320,8 +276,6 @@ This horizontal bar chart combines:
 
 It displays churn rates for each combination, highlighting how plan suitability affects retention.
 
----
-
 #### Line Chart – Avg Customer Service Calls by State and Churn Label
 
 This chart shows, for every U.S. state:
@@ -330,8 +284,6 @@ This chart shows, for every U.S. state:
 - The average number of calls made by retained customers
 
 It reveals geographic patterns and emphasizes the gap in service interaction between churners and loyal customers.
-
----
 
 ### Key Takeaways
 
