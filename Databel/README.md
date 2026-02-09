@@ -42,8 +42,8 @@ The dataset comes from Databel, a fictional telecom company, and contains:
   - Number of unique customers
 - No duplicates were detected
 
-![No of customers](Images/card1.png)
-![No of unique customers](Images/card2.png)
+![No of customers](Databel/Databel/Images/card1.png)
+![No of unique customers](Databel/Databel/Images/card2.png)
 
 ---
 
