@@ -128,17 +128,4 @@ The evaluation step is treated as:
 - Visual exploration improves feature intuition  
 - Establishing a baseline is essential before optimization  
 
----
-
-## Repository Structure
-# 
-
-# ```
-
-├── Iris.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── data/
-│ ├── Iris.csv # Iris flower dataset
-
-# ```
 
