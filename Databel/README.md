@@ -42,8 +42,8 @@ The dataset comes from Databel, a fictional telecom company, and contains:
   - Number of unique customers
 - No duplicates were detected
 
-![No of customers](Databel/Databel/Images/card1.png)
-![No of unique customers](Databel/Databel/Images/card2.png)
+![No of customers](Databel/Images/card1.png)
+![No of unique customers](Databel/Images/card2.png)
 
 ---
 
@@ -86,7 +86,7 @@ The dataset comes from Databel, a fictional telecom company, and contains:
 The Power BI report contains four main pages:
 
 - Overview  
-![Overview Dashboard](Images/overview.png)
+![Overview Dashboard](Databel/Images/overview.png)
 
 ### Objective
 
@@ -155,7 +155,7 @@ These visuals highlight that customers without group subscriptions churn the mos
 
 
 - Demographics  
-![Demographics Dashboard](Images/demographics.png) 
+![Demographics Dashboard](Databel/Images/demographics.png) 
 
 ### Objective
 
@@ -205,7 +205,7 @@ Geographic map identifying states with the largest churn volumes.
 
 
 - Contract Information  
-![Contract Dashboard](Images/contract.png) pour ajouter une image
+![Contract Dashboard](Databel/Images/contract.png) pour ajouter une image
 
 ### Objective
 
@@ -269,7 +269,7 @@ Demonstrates that long-term contracts stabilize customers, while month-to-month 
 
 
 - Subscription Types and Charges  
-![Subscription Dashboard](Images/subscription.png) pour ajouter une image
+![Subscription Dashboard](Databel/Images/subscription.png) pour ajouter une image
 
 ### Objective
 
@@ -349,21 +349,3 @@ It reveals geographic patterns and emphasizes the gap in service interaction bet
 - DAX  
 - DataCamp case study  
 
----
-
-## Repository Structure
-
-telecom-churn-powerbi/
-│
-├── README.md
-├── report/
-│ └── customer churn.pbix
-├── dataset/
-│ └── Databel - Data/
-├── images/
-│ ├── overview.png
-│ ├── demographics.png
-│ ├── contracts.png
-│ └── subscription.png
-└── dax/
-└── dax_measures.md
