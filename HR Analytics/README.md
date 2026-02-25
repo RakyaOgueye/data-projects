@@ -1,4 +1,4 @@
-# HR Analytics & Attrition Analysis — Power BI
+# HR Analytics & Attrition Analysis - Power BI
 
 ## Project Overview
 
