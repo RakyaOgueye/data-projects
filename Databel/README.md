@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis — Power BI
+# Telecom Customer Churn Analysis - Power BI
 
 ## Project Overview
 
